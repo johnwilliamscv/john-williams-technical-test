@@ -1,0 +1,14 @@
+body {
+  font-family: Montserrat, sans-serif;
+  background-color: #ecebe5;
+  margin: 0;
+}
+button,
+input {
+  font-family: inherit;
+  font-size: inherit;
+}
+:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px hsla(220, 100%, 75%, 80%);
+}
